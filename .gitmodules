@@ -1,39 +1,39 @@
 [submodule "set1"]
 	path = set1
-	url = https://github.com/InFinity54/LoR_DDragon_Set1
+	url = https://github.com/noxelisdev/LoR_DDragon_Set1.git
 [submodule "set2"]
 	path = set2
-	url = https://github.com/InFinity54/LoR_DDragon_Set2
+	url = https://github.com/noxelisdev/LoR_DDragon_Set2.git
 [submodule "set3"]
 	path = set3
-	url = https://github.com/InFinity54/LoR_DDragon_Set3
+	url = https://github.com/noxelisdev/LoR_DDragon_Set3.git
 [submodule "set4"]
 	path = set4
-	url = https://github.com/InFinity54/LoR_DDragon_Set4
+	url = https://github.com/noxelisdev/LoR_DDragon_Set4.git
 [submodule "set5"]
 	path = set5
-	url = https://github.com/InFinity54/LoR_DDragon_Set5
+	url = https://github.com/noxelisdev/LoR_DDragon_Set5.git
 [submodule "set6"]
 	path = set6
-	url = https://github.com/InFinity54/LoR_DDragon_Set6
+	url = https://github.com/noxelisdev/LoR_DDragon_Set6.git
 [submodule "set6cde"]
 	path = set6cde
-	url = https://github.com/InFinity54/LoR_DDragon_Set6CDE
+	url = https://github.com/noxelisdev/LoR_DDragon_Set6CDE.git
 [submodule "set7"]
 	path = set7
-	url = https://github.com/InFinity54/LoR_DDragon_Set7.git
+	url = https://github.com/noxelisdev/LoR_DDragon_Set7.git
 [submodule "set7b"]
 	path = set7b
-	url = https://github.com/InFinity54/LoR_DDragon_Set7B.git
+	url = https://github.com/noxelisdev/LoR_DDragon_Set7B.git
 [submodule "set8"]
 	path = set8
-	url = https://github.com/InFinity54/LoR_DDragon_Set8
+	url = https://github.com/noxelisdev/LoR_DDragon_Set8
 [submodule "adventure"]
 	path = adventure
-	url = https://github.com/InFinity54/LoR_DDragon_Adventure.git
+	url = https://github.com/noxelisdev/LoR_DDragon_Adventure.git
 [submodule "set9"]
 	path = set9
-	url = https://github.com/InFinity54/LoR_DDragon_Set9.git
+	url = https://github.com/noxelisdev/LoR_DDragon_Set9.git
 [submodule "tpoc"]
 	path = tpoc
-	url = https://github.com/InFinity54/LoR_DDragon_TPOC.git
+	url = https://github.com/noxelisdev/LoR_DDragon_TPOC.git
