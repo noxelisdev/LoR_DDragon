@@ -131,6 +131,11 @@
       "nameRef": "Buffed"
     },
     {
+      "description": "Скопированные или украденные вражеские карты.",
+      "name": "Похищение",
+      "nameRef": "Stolen"
+    },
+    {
       "description": "Увеличьте накапливаемые полезные навыки союзников или накапливаемые вредные врагов.",
       "name": "Мотивация",
       "nameRef": "Boost"
@@ -164,6 +169,11 @@
       "description": "Снарядив бойца Предметом, вы обеспечиваете бойцу заявленные бонусы. Если боец покидает игру, Предмет вернется к вам в руку. Вы можете сыграть каждый Предмет не более 1 раза за раунд.",
       "name": "Снарядить",
       "nameRef": "Equip"
+    },
+    {
+      "description": "Разыграв заклинание, создайте в руке его мимолетную копию дороже на 1.",
+      "name": "Повторное заклинание",
+      "nameRef": "Recast"
     },
     {
       "description": "Этот эффект сработает, когда начнется раунд.",
@@ -249,6 +259,11 @@
       "description": "Выберите одну из трех карт из вашей колоды. Положите эту карту сверху, а остальные поместите в колоду.",
       "name": "Предсказание",
       "nameRef": "Predict"
+    },
+    {
+      "description": "Если у вас осталось место, украдите вражеского бойца. В конце раунда верните бойца. Если места у противника не осталось, верните бойца в его руку.",
+      "name": "Очарование",
+      "nameRef": "Charm"
     }
   ],
   "keywords": [
@@ -666,135 +681,141 @@
   "regions": [
     {
       "abbreviation": "NX",
-      "iconAbsolutePath": "http://dd.b.pvp.net/6_7_0/core/ru_ru/img/regions/icon-noxus.png",
+      "iconAbsolutePath": "http://dd.b.pvp.net/6_8_0/core/ru_ru/img/regions/icon-noxus.png",
       "name": "Ноксус",
       "nameRef": "Noxus"
     },
     {
       "abbreviation": "ELD",
-      "iconAbsolutePath": "http://dd.b.pvp.net/6_7_0/core/ru_ru/img/regions/icon-elderdragon.png",
+      "iconAbsolutePath": "http://dd.b.pvp.net/6_8_0/core/ru_ru/img/regions/icon-elderdragon.png",
       "name": "Старший дракон",
       "nameRef": "ElderDragon"
     },
     {
       "abbreviation": "RYZE",
-      "iconAbsolutePath": "http://dd.b.pvp.net/6_7_0/core/ru_ru/img/regions/icon-ryze.png",
+      "iconAbsolutePath": "http://dd.b.pvp.net/6_8_0/core/ru_ru/img/regions/icon-ryze.png",
       "name": "Райз",
       "nameRef": "Ryze"
     },
     {
       "abbreviation": "Jhin",
-      "iconAbsolutePath": "http://dd.b.pvp.net/6_7_0/core/ru_ru/img/regions/icon-jhin.png",
+      "iconAbsolutePath": "http://dd.b.pvp.net/6_8_0/core/ru_ru/img/regions/icon-jhin.png",
       "name": "Джин",
       "nameRef": "Jhin"
     },
     {
       "abbreviation": "Varus",
-      "iconAbsolutePath": "http://dd.b.pvp.net/6_7_0/core/ru_ru/img/regions/icon-varus.png",
+      "iconAbsolutePath": "http://dd.b.pvp.net/6_8_0/core/ru_ru/img/regions/icon-varus.png",
       "name": "Варус",
       "nameRef": "Varus"
     },
     {
       "abbreviation": "Aatrox",
-      "iconAbsolutePath": "http://dd.b.pvp.net/6_7_0/core/ru_ru/img/regions/icon-aatrox.png",
+      "iconAbsolutePath": "http://dd.b.pvp.net/6_8_0/core/ru_ru/img/regions/icon-aatrox.png",
       "name": "Атрокс",
       "nameRef": "Aatrox"
     },
     {
       "abbreviation": "Neeko",
-      "iconAbsolutePath": "http://dd.b.pvp.net/6_7_0/core/ru_ru/img/regions/icon-neeko.png",
+      "iconAbsolutePath": "http://dd.b.pvp.net/6_8_0/core/ru_ru/img/regions/icon-neeko.png",
       "name": "Нико",
       "nameRef": "Neeko"
     },
     {
       "abbreviation": "Jax",
-      "iconAbsolutePath": "http://dd.b.pvp.net/6_7_0/core/ru_ru/img/regions/icon-jax.png",
+      "iconAbsolutePath": "http://dd.b.pvp.net/6_8_0/core/ru_ru/img/regions/icon-jax.png",
       "name": "Джакс",
       "nameRef": "Jax"
     },
     {
       "abbreviation": "Kayn",
-      "iconAbsolutePath": "http://dd.b.pvp.net/6_7_0/core/ru_ru/img/regions/icon-kayn.png",
+      "iconAbsolutePath": "http://dd.b.pvp.net/6_8_0/core/ru_ru/img/regions/icon-kayn.png",
       "name": "Каин",
       "nameRef": "Kayn"
     },
     {
       "abbreviation": "POROKING",
-      "iconAbsolutePath": "http://dd.b.pvp.net/6_7_0/core/ru_ru/img/regions/icon-poroking.png",
+      "iconAbsolutePath": "http://dd.b.pvp.net/6_8_0/core/ru_ru/img/regions/icon-poroking.png",
       "name": "Король поро",
       "nameRef": "PoroKing"
     },
     {
       "abbreviation": "Evelynn",
-      "iconAbsolutePath": "http://dd.b.pvp.net/6_7_0/core/ru_ru/img/regions/icon-evelynn.png",
+      "iconAbsolutePath": "http://dd.b.pvp.net/6_8_0/core/ru_ru/img/regions/icon-evelynn.png",
       "name": "Эвелинн",
       "nameRef": "Evelynn"
     },
     {
       "abbreviation": "Bard",
-      "iconAbsolutePath": "http://dd.b.pvp.net/6_7_0/core/ru_ru/img/regions/icon-bard.png",
+      "iconAbsolutePath": "http://dd.b.pvp.net/6_8_0/core/ru_ru/img/regions/icon-bard.png",
       "name": "Бард",
       "nameRef": "Bard"
     },
     {
       "abbreviation": "DE",
-      "iconAbsolutePath": "http://dd.b.pvp.net/6_7_0/core/ru_ru/img/regions/icon-demacia.png",
+      "iconAbsolutePath": "http://dd.b.pvp.net/6_8_0/core/ru_ru/img/regions/icon-demacia.png",
       "name": "Демасия",
       "nameRef": "Demacia"
     },
     {
       "abbreviation": "RU",
-      "iconAbsolutePath": "http://dd.b.pvp.net/6_7_0/core/ru_ru/img/regions/icon-runeterra.png",
+      "iconAbsolutePath": "http://dd.b.pvp.net/6_8_0/core/ru_ru/img/regions/icon-runeterra.png",
       "name": "Рунтерра",
       "nameRef": "Runeterra"
     },
     {
       "abbreviation": "FR",
-      "iconAbsolutePath": "http://dd.b.pvp.net/6_7_0/core/ru_ru/img/regions/icon-freljord.png",
+      "iconAbsolutePath": "http://dd.b.pvp.net/6_8_0/core/ru_ru/img/regions/icon-freljord.png",
       "name": "Фрельйорд",
       "nameRef": "Freljord"
     },
     {
       "abbreviation": "SI",
-      "iconAbsolutePath": "http://dd.b.pvp.net/6_7_0/core/ru_ru/img/regions/icon-shadowisles.png",
+      "iconAbsolutePath": "http://dd.b.pvp.net/6_8_0/core/ru_ru/img/regions/icon-shadowisles.png",
       "name": "Сумрачные острова",
       "nameRef": "ShadowIsles"
     },
     {
       "abbreviation": "MT",
-      "iconAbsolutePath": "http://dd.b.pvp.net/6_7_0/core/ru_ru/img/regions/icon-targon.png",
+      "iconAbsolutePath": "http://dd.b.pvp.net/6_8_0/core/ru_ru/img/regions/icon-targon.png",
       "name": "Таргон",
       "nameRef": "Targon"
     },
     {
       "abbreviation": "IO",
-      "iconAbsolutePath": "http://dd.b.pvp.net/6_7_0/core/ru_ru/img/regions/icon-ionia.png",
+      "iconAbsolutePath": "http://dd.b.pvp.net/6_8_0/core/ru_ru/img/regions/icon-ionia.png",
       "name": "Иония",
       "nameRef": "Ionia"
     },
     {
       "abbreviation": "SH",
-      "iconAbsolutePath": "http://dd.b.pvp.net/6_7_0/core/ru_ru/img/regions/icon-shurima.png",
+      "iconAbsolutePath": "http://dd.b.pvp.net/6_8_0/core/ru_ru/img/regions/icon-shurima.png",
       "name": "Шурима",
       "nameRef": "Shurima"
     },
     {
       "abbreviation": "BW",
-      "iconAbsolutePath": "http://dd.b.pvp.net/6_7_0/core/ru_ru/img/regions/icon-bilgewater.png",
+      "iconAbsolutePath": "http://dd.b.pvp.net/6_8_0/core/ru_ru/img/regions/icon-bilgewater.png",
       "name": "Билджвотер",
       "nameRef": "Bilgewater"
     },
     {
       "abbreviation": "PZ",
-      "iconAbsolutePath": "http://dd.b.pvp.net/6_7_0/core/ru_ru/img/regions/icon-piltoverzaun.png",
+      "iconAbsolutePath": "http://dd.b.pvp.net/6_8_0/core/ru_ru/img/regions/icon-piltoverzaun.png",
       "name": "Пилтовер и Заун",
       "nameRef": "PiltoverZaun"
     },
     {
       "abbreviation": "BC",
-      "iconAbsolutePath": "http://dd.b.pvp.net/6_7_0/core/ru_ru/img/regions/icon-bandlecity.png",
+      "iconAbsolutePath": "http://dd.b.pvp.net/6_8_0/core/ru_ru/img/regions/icon-bandlecity.png",
       "name": "Бандл Сити",
       "nameRef": "BandleCity"
+    },
+    {
+      "abbreviation": "SP",
+      "iconAbsolutePath": "http://dd.b.pvp.net/6_8_0/core/ru_ru/img/regions/icon-spiritblossom.png",
+      "name": "Праздник цветения",
+      "nameRef": "SpiritBlossom"
     }
   ],
   "spellSpeeds": [
@@ -835,69 +856,69 @@
   ],
   "sets": [
     {
-      "iconAbsolutePath": "http://dd.b.pvp.net/6_7_0/core/ru_ru/img/sets/set3_crispmip.png",
+      "iconAbsolutePath": "http://dd.b.pvp.net/6_8_0/core/ru_ru/img/sets/set3_crispmip.png",
       "name": "Зов Горы",
       "nameRef": "Set3"
     },
     {
-      "iconAbsolutePath": "http://dd.b.pvp.net/6_7_0/core/ru_ru/img/sets/set5_crispmip.png",
+      "iconAbsolutePath": "http://dd.b.pvp.net/6_8_0/core/ru_ru/img/sets/set5_crispmip.png",
       "name": "Гости из бандлового леса",
       "nameRef": "Set5"
     },
     {
-      "iconAbsolutePath": "http://dd.b.pvp.net/6_7_0/core/ru_ru/img/sets/set1_crispmip.png",
+      "iconAbsolutePath": "http://dd.b.pvp.net/6_8_0/core/ru_ru/img/sets/set1_crispmip.png",
       "name": "Основы",
       "nameRef": "Set1"
     },
     {
-      "iconAbsolutePath": "http://dd.b.pvp.net/6_7_0/core/ru_ru/img/sets/set2_crispmip.png",
+      "iconAbsolutePath": "http://dd.b.pvp.net/6_8_0/core/ru_ru/img/sets/set2_crispmip.png",
       "name": "Прилив",
       "nameRef": "Set2"
     },
     {
-      "iconAbsolutePath": "http://dd.b.pvp.net/6_7_0/core/ru_ru/img/sets/set6ab_crispmip.png",
+      "iconAbsolutePath": "http://dd.b.pvp.net/6_8_0/core/ru_ru/img/sets/set6ab_crispmip.png",
       "name": "Странники",
       "nameRef": "Set6"
     },
     {
-      "iconAbsolutePath": "http://dd.b.pvp.net/6_7_0/core/ru_ru/img/sets/set4_crispmip.png",
+      "iconAbsolutePath": "http://dd.b.pvp.net/6_8_0/core/ru_ru/img/sets/set4_crispmip.png",
       "name": "Империи вознесшихся",
       "nameRef": "Set4"
     },
     {
-      "iconAbsolutePath": "http://dd.b.pvp.net/6_7_0/core/ru_ru/img/sets/set9_crispmip.png",
+      "iconAbsolutePath": "http://dd.b.pvp.net/6_8_0/core/ru_ru/img/sets/set9_crispmip.png",
       "name": "Тропы под светом грез",
       "nameRef": "Set9"
     },
     {
-      "iconAbsolutePath": "http://dd.b.pvp.net/6_7_0/core/ru_ru/img/sets/set7_crispmip.png",
+      "iconAbsolutePath": "http://dd.b.pvp.net/6_8_0/core/ru_ru/img/sets/set7_crispmip.png",
       "name": "Слава в Навори",
       "nameRef": "Set7"
     },
     {
-      "iconAbsolutePath": "http://dd.b.pvp.net/6_7_0/core/ru_ru/img/sets/set8_crispmip.png",
+      "iconAbsolutePath": "http://dd.b.pvp.net/6_8_0/core/ru_ru/img/sets/set8_crispmip.png",
       "name": "Судьбоносное путешествие",
       "nameRef": "Set8"
     },
     {
-      "iconAbsolutePath": "http://dd.b.pvp.net/6_7_0/core/ru_ru/img/sets/set7b_crispmip.png",
+      "iconAbsolutePath": "http://dd.b.pvp.net/6_8_0/core/ru_ru/img/sets/set7b_crispmip.png",
       "name": "Сердце Охотницы",
       "nameRef": "Set7b"
     },
     {
-      "iconAbsolutePath": "http://dd.b.pvp.net/6_7_0/core/ru_ru/img/sets/setevent_crispmip.png",
+      "iconAbsolutePath": "http://dd.b.pvp.net/6_8_0/core/ru_ru/img/sets/setevent_crispmip.png",
       "name": "События",
       "nameRef": "SetEvent"
     },
     {
-      "iconAbsolutePath": "http://dd.b.pvp.net/6_7_0/core/ru_ru/img/sets/set6cde_crispmip.png",
+      "iconAbsolutePath": "http://dd.b.pvp.net/6_8_0/core/ru_ru/img/sets/set6cde_crispmip.png",
       "name": "Сага о даркинах",
       "nameRef": "Set6cde"
     }
   ],
   "formats": [
     {
-      "iconAbsolutePath": "http://dd.b.pvp.net/6_7_0/core/ru_ru/img/formats/queue_select_standard_toggle_active.png",
+      "iconAbsolutePath": "http://dd.b.pvp.net/6_8_0/core/ru_ru/img/formats/queue_select_standard_toggle_active.png",
       "name": "Стандартный",
       "nameRef": "client_Formats_Standard_name"
     },
@@ -907,7 +928,7 @@
       "nameRef": "client_Deckbuilder_RulesFilters_Singleton"
     },
     {
-      "iconAbsolutePath": "http://dd.b.pvp.net/6_7_0/core/ru_ru/img/formats/queue_select_eternal_toggle_active.png",
+      "iconAbsolutePath": "http://dd.b.pvp.net/6_8_0/core/ru_ru/img/formats/queue_select_eternal_toggle_active.png",
       "name": "Вечный",
       "nameRef": "client_Formats_Eternal_name"
     },

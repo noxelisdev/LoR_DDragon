@@ -131,6 +131,11 @@
       "nameRef": "Buffed"
     },
     {
+      "description": "การ์ดทั้งหมดถูกคัดลอก หรือนำมาจากคู่ต่อสู้",
+      "name": "ถูกขโมยมา",
+      "nameRef": "Stolen"
+    },
+    {
       "description": "เพิ่มคีย์เวิร์ดด้านบวกที่สามารถสแตคซ้อนกันได้ของพันธมิตร หรือเพิ่มคีย์เวิร์ดด้านลบที่<br>สามารถสแตคซ้อนกันได้<br>ของศัตรู",
       "name": "บูสต์",
       "nameRef": "Boost"
@@ -164,6 +169,11 @@
       "description": "การติดตั้งไอเทมให้กับยูนิตจะ<br>มอบโบนัสตามที่เขียนไว้<br>หากยูนิตนั้นออกจากสนาม ไอเทมจะกลับขึ้นมาบนมือ คุณสามารถเล่นไอเทมแต่ละใบ<br>ได้เพียงหนึ่งครั้งในแต่ละรอบ",
       "name": "ติดตั้ง",
       "nameRef": "Equip"
+    },
+    {
+      "description": "เมื่อคุณเล่นเวทนี้ สร้างการ์ดเสมือนของการ์ดใบนั้นที่มีชั่วคราวหนึ่งใบในมือโดยมีค่าร่าย +1",
+      "name": "ร่ายซ้ำ",
+      "nameRef": "Recast"
     },
     {
       "description": "ความสามารถนี้มีผลเมื่อ<br>เริ่มรอบ",
@@ -249,6 +259,11 @@
       "description": "เลือกการ์ดหนึ่งใบจาก 3 ใบ<zwsp>ในเด็คของคุณ นำการ์ดที่เลือกขึ้นมาไว้บนสุด<zwsp>ของเด็ค และสับการ์ดที่เหลือกลับเข้าเด็ค",
       "name": "พยากรณ์",
       "nameRef": "Predict"
+    },
+    {
+      "description": "ขโมยยูนิตศัตรูหนึ่งใบ<br>หากคุณมีพื้นที่ว่าง<br>เมื่อจบรอบ คืนมันกลับไป หากคู่ต่อสู้มีพื้นที่ว่าง<br>ไม่เช่นนั้น นำมันกลับขึ้นมือคู่ต่อสู้",
+      "name": "สะกด",
+      "nameRef": "Charm"
     }
   ],
   "keywords": [
@@ -666,135 +681,141 @@
   "regions": [
     {
       "abbreviation": "NX",
-      "iconAbsolutePath": "http://dd.b.pvp.net/6_7_0/core/th_th/img/regions/icon-noxus.png",
+      "iconAbsolutePath": "http://dd.b.pvp.net/6_8_0/core/th_th/img/regions/icon-noxus.png",
       "name": "น็อก<zwsp>ซัส",
       "nameRef": "Noxus"
     },
     {
       "abbreviation": "ELD",
-      "iconAbsolutePath": "http://dd.b.pvp.net/6_7_0/core/th_th/img/regions/icon-elderdragon.png",
+      "iconAbsolutePath": "http://dd.b.pvp.net/6_8_0/core/th_th/img/regions/icon-elderdragon.png",
       "name": "Elder Dragon",
       "nameRef": "ElderDragon"
     },
     {
       "abbreviation": "RYZE",
-      "iconAbsolutePath": "http://dd.b.pvp.net/6_7_0/core/th_th/img/regions/icon-ryze.png",
+      "iconAbsolutePath": "http://dd.b.pvp.net/6_8_0/core/th_th/img/regions/icon-ryze.png",
       "name": "Ryze",
       "nameRef": "Ryze"
     },
     {
       "abbreviation": "Jhin",
-      "iconAbsolutePath": "http://dd.b.pvp.net/6_7_0/core/th_th/img/regions/icon-jhin.png",
+      "iconAbsolutePath": "http://dd.b.pvp.net/6_8_0/core/th_th/img/regions/icon-jhin.png",
       "name": "Jhin",
       "nameRef": "Jhin"
     },
     {
       "abbreviation": "Varus",
-      "iconAbsolutePath": "http://dd.b.pvp.net/6_7_0/core/th_th/img/regions/icon-varus.png",
+      "iconAbsolutePath": "http://dd.b.pvp.net/6_8_0/core/th_th/img/regions/icon-varus.png",
       "name": "Varus",
       "nameRef": "Varus"
     },
     {
       "abbreviation": "Aatrox",
-      "iconAbsolutePath": "http://dd.b.pvp.net/6_7_0/core/th_th/img/regions/icon-aatrox.png",
+      "iconAbsolutePath": "http://dd.b.pvp.net/6_8_0/core/th_th/img/regions/icon-aatrox.png",
       "name": "Aatrox",
       "nameRef": "Aatrox"
     },
     {
       "abbreviation": "Neeko",
-      "iconAbsolutePath": "http://dd.b.pvp.net/6_7_0/core/th_th/img/regions/icon-neeko.png",
+      "iconAbsolutePath": "http://dd.b.pvp.net/6_8_0/core/th_th/img/regions/icon-neeko.png",
       "name": "Neeko",
       "nameRef": "Neeko"
     },
     {
       "abbreviation": "Jax",
-      "iconAbsolutePath": "http://dd.b.pvp.net/6_7_0/core/th_th/img/regions/icon-jax.png",
+      "iconAbsolutePath": "http://dd.b.pvp.net/6_8_0/core/th_th/img/regions/icon-jax.png",
       "name": "Jax",
       "nameRef": "Jax"
     },
     {
       "abbreviation": "Kayn",
-      "iconAbsolutePath": "http://dd.b.pvp.net/6_7_0/core/th_th/img/regions/icon-kayn.png",
+      "iconAbsolutePath": "http://dd.b.pvp.net/6_8_0/core/th_th/img/regions/icon-kayn.png",
       "name": "Kayn",
       "nameRef": "Kayn"
     },
     {
       "abbreviation": "POROKING",
-      "iconAbsolutePath": "http://dd.b.pvp.net/6_7_0/core/th_th/img/regions/icon-poroking.png",
+      "iconAbsolutePath": "http://dd.b.pvp.net/6_8_0/core/th_th/img/regions/icon-poroking.png",
       "name": "Poro King",
       "nameRef": "PoroKing"
     },
     {
       "abbreviation": "Evelynn",
-      "iconAbsolutePath": "http://dd.b.pvp.net/6_7_0/core/th_th/img/regions/icon-evelynn.png",
+      "iconAbsolutePath": "http://dd.b.pvp.net/6_8_0/core/th_th/img/regions/icon-evelynn.png",
       "name": "Evelynn",
       "nameRef": "Evelynn"
     },
     {
       "abbreviation": "Bard",
-      "iconAbsolutePath": "http://dd.b.pvp.net/6_7_0/core/th_th/img/regions/icon-bard.png",
+      "iconAbsolutePath": "http://dd.b.pvp.net/6_8_0/core/th_th/img/regions/icon-bard.png",
       "name": "Bard",
       "nameRef": "Bard"
     },
     {
       "abbreviation": "DE",
-      "iconAbsolutePath": "http://dd.b.pvp.net/6_7_0/core/th_th/img/regions/icon-demacia.png",
+      "iconAbsolutePath": "http://dd.b.pvp.net/6_8_0/core/th_th/img/regions/icon-demacia.png",
       "name": "เด<zwsp>มา<zwsp>เซีย",
       "nameRef": "Demacia"
     },
     {
       "abbreviation": "RU",
-      "iconAbsolutePath": "http://dd.b.pvp.net/6_7_0/core/th_th/img/regions/icon-runeterra.png",
+      "iconAbsolutePath": "http://dd.b.pvp.net/6_8_0/core/th_th/img/regions/icon-runeterra.png",
       "name": "รูนเทอร์รา",
       "nameRef": "Runeterra"
     },
     {
       "abbreviation": "FR",
-      "iconAbsolutePath": "http://dd.b.pvp.net/6_7_0/core/th_th/img/regions/icon-freljord.png",
+      "iconAbsolutePath": "http://dd.b.pvp.net/6_8_0/core/th_th/img/regions/icon-freljord.png",
       "name": "เฟรล<zwsp>ยอร์ด",
       "nameRef": "Freljord"
     },
     {
       "abbreviation": "SI",
-      "iconAbsolutePath": "http://dd.b.pvp.net/6_7_0/core/th_th/img/regions/icon-shadowisles.png",
+      "iconAbsolutePath": "http://dd.b.pvp.net/6_8_0/core/th_th/img/regions/icon-shadowisles.png",
       "name": "เกาะ<zwsp>แห่ง<zwsp>เงา",
       "nameRef": "ShadowIsles"
     },
     {
       "abbreviation": "MT",
-      "iconAbsolutePath": "http://dd.b.pvp.net/6_7_0/core/th_th/img/regions/icon-targon.png",
+      "iconAbsolutePath": "http://dd.b.pvp.net/6_8_0/core/th_th/img/regions/icon-targon.png",
       "name": "ทาร์<zwsp>กอน",
       "nameRef": "Targon"
     },
     {
       "abbreviation": "IO",
-      "iconAbsolutePath": "http://dd.b.pvp.net/6_7_0/core/th_th/img/regions/icon-ionia.png",
+      "iconAbsolutePath": "http://dd.b.pvp.net/6_8_0/core/th_th/img/regions/icon-ionia.png",
       "name": "ไอ<zwsp>โอ<zwsp>เนีย",
       "nameRef": "Ionia"
     },
     {
       "abbreviation": "SH",
-      "iconAbsolutePath": "http://dd.b.pvp.net/6_7_0/core/th_th/img/regions/icon-shurima.png",
+      "iconAbsolutePath": "http://dd.b.pvp.net/6_8_0/core/th_th/img/regions/icon-shurima.png",
       "name": "ชู<zwsp>ริ<zwsp>ม่า",
       "nameRef": "Shurima"
     },
     {
       "abbreviation": "BW",
-      "iconAbsolutePath": "http://dd.b.pvp.net/6_7_0/core/th_th/img/regions/icon-bilgewater.png",
+      "iconAbsolutePath": "http://dd.b.pvp.net/6_8_0/core/th_th/img/regions/icon-bilgewater.png",
       "name": "บิลจ์<zwsp>วอ<zwsp>เตอร์",
       "nameRef": "Bilgewater"
     },
     {
       "abbreviation": "PZ",
-      "iconAbsolutePath": "http://dd.b.pvp.net/6_7_0/core/th_th/img/regions/icon-piltoverzaun.png",
+      "iconAbsolutePath": "http://dd.b.pvp.net/6_8_0/core/th_th/img/regions/icon-piltoverzaun.png",
       "name": "พิล<zwsp>โท<zwsp>เวอร์ <zwsp>& <zwsp>ซอน",
       "nameRef": "PiltoverZaun"
     },
     {
       "abbreviation": "BC",
-      "iconAbsolutePath": "http://dd.b.pvp.net/6_7_0/core/th_th/img/regions/icon-bandlecity.png",
+      "iconAbsolutePath": "http://dd.b.pvp.net/6_8_0/core/th_th/img/regions/icon-bandlecity.png",
       "name": "แบน<zwsp>เดิล<zwsp>ซิ<zwsp>ตี้",
       "nameRef": "BandleCity"
+    },
+    {
+      "abbreviation": "SP",
+      "iconAbsolutePath": "http://dd.b.pvp.net/6_8_0/core/th_th/img/regions/icon-spiritblossom.png",
+      "name": "Spirit Blossom",
+      "nameRef": "SpiritBlossom"
     }
   ],
   "spellSpeeds": [
@@ -835,69 +856,69 @@
   ],
   "sets": [
     {
-      "iconAbsolutePath": "http://dd.b.pvp.net/6_7_0/core/th_th/img/sets/set3_crispmip.png",
+      "iconAbsolutePath": "http://dd.b.pvp.net/6_8_0/core/th_th/img/sets/set3_crispmip.png",
       "name": "Call of the Mountain",
       "nameRef": "Set3"
     },
     {
-      "iconAbsolutePath": "http://dd.b.pvp.net/6_7_0/core/th_th/img/sets/set5_crispmip.png",
+      "iconAbsolutePath": "http://dd.b.pvp.net/6_8_0/core/th_th/img/sets/set5_crispmip.png",
       "name": "Beyond the Bandlewood",
       "nameRef": "Set5"
     },
     {
-      "iconAbsolutePath": "http://dd.b.pvp.net/6_7_0/core/th_th/img/sets/set1_crispmip.png",
+      "iconAbsolutePath": "http://dd.b.pvp.net/6_8_0/core/th_th/img/sets/set1_crispmip.png",
       "name": "Foundations",
       "nameRef": "Set1"
     },
     {
-      "iconAbsolutePath": "http://dd.b.pvp.net/6_7_0/core/th_th/img/sets/set2_crispmip.png",
+      "iconAbsolutePath": "http://dd.b.pvp.net/6_8_0/core/th_th/img/sets/set2_crispmip.png",
       "name": "Rising Tides",
       "nameRef": "Set2"
     },
     {
-      "iconAbsolutePath": "http://dd.b.pvp.net/6_7_0/core/th_th/img/sets/set6ab_crispmip.png",
+      "iconAbsolutePath": "http://dd.b.pvp.net/6_8_0/core/th_th/img/sets/set6ab_crispmip.png",
       "name": "Worldwalker",
       "nameRef": "Set6"
     },
     {
-      "iconAbsolutePath": "http://dd.b.pvp.net/6_7_0/core/th_th/img/sets/set4_crispmip.png",
+      "iconAbsolutePath": "http://dd.b.pvp.net/6_8_0/core/th_th/img/sets/set4_crispmip.png",
       "name": "Empires of the Ascended",
       "nameRef": "Set4"
     },
     {
-      "iconAbsolutePath": "http://dd.b.pvp.net/6_7_0/core/th_th/img/sets/set9_crispmip.png",
+      "iconAbsolutePath": "http://dd.b.pvp.net/6_8_0/core/th_th/img/sets/set9_crispmip.png",
       "name": "Dreamlit Paths",
       "nameRef": "Set9"
     },
     {
-      "iconAbsolutePath": "http://dd.b.pvp.net/6_7_0/core/th_th/img/sets/set7_crispmip.png",
+      "iconAbsolutePath": "http://dd.b.pvp.net/6_8_0/core/th_th/img/sets/set7_crispmip.png",
       "name": "Glory in Navori",
       "nameRef": "Set7"
     },
     {
-      "iconAbsolutePath": "http://dd.b.pvp.net/6_7_0/core/th_th/img/sets/set8_crispmip.png",
+      "iconAbsolutePath": "http://dd.b.pvp.net/6_8_0/core/th_th/img/sets/set8_crispmip.png",
       "name": "Fate's Voyage",
       "nameRef": "Set8"
     },
     {
-      "iconAbsolutePath": "http://dd.b.pvp.net/6_7_0/core/th_th/img/sets/set7b_crispmip.png",
+      "iconAbsolutePath": "http://dd.b.pvp.net/6_8_0/core/th_th/img/sets/set7b_crispmip.png",
       "name": "Heart of the Huntress",
       "nameRef": "Set7b"
     },
     {
-      "iconAbsolutePath": "http://dd.b.pvp.net/6_7_0/core/th_th/img/sets/setevent_crispmip.png",
+      "iconAbsolutePath": "http://dd.b.pvp.net/6_8_0/core/th_th/img/sets/setevent_crispmip.png",
       "name": "อีเวนต์",
       "nameRef": "SetEvent"
     },
     {
-      "iconAbsolutePath": "http://dd.b.pvp.net/6_7_0/core/th_th/img/sets/set6cde_crispmip.png",
+      "iconAbsolutePath": "http://dd.b.pvp.net/6_8_0/core/th_th/img/sets/set6cde_crispmip.png",
       "name": "The Darkin Saga",
       "nameRef": "Set6cde"
     }
   ],
   "formats": [
     {
-      "iconAbsolutePath": "http://dd.b.pvp.net/6_7_0/core/th_th/img/formats/queue_select_standard_toggle_active.png",
+      "iconAbsolutePath": "http://dd.b.pvp.net/6_8_0/core/th_th/img/formats/queue_select_standard_toggle_active.png",
       "name": "Standard",
       "nameRef": "client_Formats_Standard_name"
     },
@@ -907,7 +928,7 @@
       "nameRef": "client_Deckbuilder_RulesFilters_Singleton"
     },
     {
-      "iconAbsolutePath": "http://dd.b.pvp.net/6_7_0/core/th_th/img/formats/queue_select_eternal_toggle_active.png",
+      "iconAbsolutePath": "http://dd.b.pvp.net/6_8_0/core/th_th/img/formats/queue_select_eternal_toggle_active.png",
       "name": "Eternal",
       "nameRef": "client_Formats_Eternal_name"
     },
