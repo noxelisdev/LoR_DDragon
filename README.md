@@ -47,6 +47,7 @@ This list contains patchs from actual major version. For all previous patchs of 
 
 The date in front of each patch represents the date when the patch was pushed to this repository, not the date when it was released by Riot Games. Here's a list of all patchs of current seasons included in this repository :
 
+- (December 2nd, 2024) 6.12.0
 - (November 5th, 2024) 6.11.0
 - (October 8th, 2024) 6.10.0
 - (September 10th, 2024) 6.9.0
