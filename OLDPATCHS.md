@@ -6,6 +6,19 @@ This document list all patchs from previous major versions added to this reposit
 ## List of all patchs added from previous major versions
 The date in front of each patch represents the date when the patch was pushed to this repository, not the date when it was released by Riot Games. Here's a list of all patchs included in this repository so far (current season excluded) :
 
+- (December 2nd, 2025) 6.12.0
+- (November 5th, 2025) 6.11.0
+- (October 8th, 2025) 6.10.0
+- (September 10th, 2025) 6.9.0
+- (August 13th, 2025) 6.8.0
+- (July 15th, 2025) 6.7.0
+- (June 6th, 2025) 6.6.0
+- (May 8th, 2025) 6.5.0
+- (April 8th, 2025) 6.4.0
+- (March 11th, 2025) 6.3.0
+- (February 12th, 2025) 6.2.0
+- (January 21st, 2025) 6.1.0
+
 - (December 5th, 2024) 5.12.0
 - (November 5th, 2024) 5.11.0
 - (October 8th, 2024) 5.10.0

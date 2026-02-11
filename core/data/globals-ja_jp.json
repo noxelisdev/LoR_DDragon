@@ -696,139 +696,139 @@
   "regions": [
     {
       "abbreviation": "NX",
-      "iconAbsolutePath": "http://dd.b.pvp.net/6_12_0/core/ja_jp/img/regions/icon-noxus.png",
+      "iconAbsolutePath": "http://dd.b.pvp.net/7_2_0/core/ja_jp/img/regions/icon-noxus.png",
       "name": "ノクサス",
       "nameRef": "Noxus"
     },
     {
       "abbreviation": "ELD",
-      "iconAbsolutePath": "http://dd.b.pvp.net/6_12_0/core/ja_jp/img/regions/icon-elderdragon.png",
+      "iconAbsolutePath": "http://dd.b.pvp.net/7_2_0/core/ja_jp/img/regions/icon-elderdragon.png",
       "name": "エルダードラゴン",
       "nameRef": "ElderDragon"
     },
     {
       "abbreviation": "RYZE",
-      "iconAbsolutePath": "http://dd.b.pvp.net/6_12_0/core/ja_jp/img/regions/icon-ryze.png",
+      "iconAbsolutePath": "http://dd.b.pvp.net/7_2_0/core/ja_jp/img/regions/icon-ryze.png",
       "name": "ライズ",
       "nameRef": "Ryze"
     },
     {
       "abbreviation": "Jhin",
-      "iconAbsolutePath": "http://dd.b.pvp.net/6_12_0/core/ja_jp/img/regions/icon-jhin.png",
+      "iconAbsolutePath": "http://dd.b.pvp.net/7_2_0/core/ja_jp/img/regions/icon-jhin.png",
       "name": "ジン",
       "nameRef": "Jhin"
     },
     {
       "abbreviation": "Varus",
-      "iconAbsolutePath": "http://dd.b.pvp.net/6_12_0/core/ja_jp/img/regions/icon-varus.png",
+      "iconAbsolutePath": "http://dd.b.pvp.net/7_2_0/core/ja_jp/img/regions/icon-varus.png",
       "name": "ヴァルス",
       "nameRef": "Varus"
     },
     {
       "abbreviation": "Aatrox",
-      "iconAbsolutePath": "http://dd.b.pvp.net/6_12_0/core/ja_jp/img/regions/icon-aatrox.png",
+      "iconAbsolutePath": "http://dd.b.pvp.net/7_2_0/core/ja_jp/img/regions/icon-aatrox.png",
       "name": "<nobr>エイトロックス</nobr>",
       "nameRef": "Aatrox"
     },
     {
       "abbreviation": "Neeko",
-      "iconAbsolutePath": "http://dd.b.pvp.net/6_12_0/core/ja_jp/img/regions/icon-neeko.png",
+      "iconAbsolutePath": "http://dd.b.pvp.net/7_2_0/core/ja_jp/img/regions/icon-neeko.png",
       "name": "ニーコ",
       "nameRef": "Neeko"
     },
     {
       "abbreviation": "Jax",
-      "iconAbsolutePath": "http://dd.b.pvp.net/6_12_0/core/ja_jp/img/regions/icon-jax.png",
+      "iconAbsolutePath": "http://dd.b.pvp.net/7_2_0/core/ja_jp/img/regions/icon-jax.png",
       "name": "ジャックス",
       "nameRef": "Jax"
     },
     {
       "abbreviation": "Kayn",
-      "iconAbsolutePath": "http://dd.b.pvp.net/6_12_0/core/ja_jp/img/regions/icon-kayn.png",
+      "iconAbsolutePath": "http://dd.b.pvp.net/7_2_0/core/ja_jp/img/regions/icon-kayn.png",
       "name": "ケイン",
       "nameRef": "Kayn"
     },
     {
       "abbreviation": "POROKING",
-      "iconAbsolutePath": "http://dd.b.pvp.net/6_12_0/core/ja_jp/img/regions/icon-poroking.png",
+      "iconAbsolutePath": "http://dd.b.pvp.net/7_2_0/core/ja_jp/img/regions/icon-poroking.png",
       "name": "ポロキング",
       "nameRef": "PoroKing"
     },
     {
       "abbreviation": "Evelynn",
-      "iconAbsolutePath": "http://dd.b.pvp.net/6_12_0/core/ja_jp/img/regions/icon-evelynn.png",
+      "iconAbsolutePath": "http://dd.b.pvp.net/7_2_0/core/ja_jp/img/regions/icon-evelynn.png",
       "name": "イブリン",
       "nameRef": "Evelynn"
     },
     {
       "abbreviation": "Bard",
-      "iconAbsolutePath": "http://dd.b.pvp.net/6_12_0/core/ja_jp/img/regions/icon-bard.png",
+      "iconAbsolutePath": "http://dd.b.pvp.net/7_2_0/core/ja_jp/img/regions/icon-bard.png",
       "name": "バード",
       "nameRef": "Bard"
     },
     {
       "abbreviation": "DE",
-      "iconAbsolutePath": "http://dd.b.pvp.net/6_12_0/core/ja_jp/img/regions/icon-demacia.png",
+      "iconAbsolutePath": "http://dd.b.pvp.net/7_2_0/core/ja_jp/img/regions/icon-demacia.png",
       "name": "デマーシア",
       "nameRef": "Demacia"
     },
     {
       "abbreviation": "RU",
-      "iconAbsolutePath": "http://dd.b.pvp.net/6_12_0/core/ja_jp/img/regions/icon-runeterra.png",
+      "iconAbsolutePath": "http://dd.b.pvp.net/7_2_0/core/ja_jp/img/regions/icon-runeterra.png",
       "name": "ルーンテラ",
       "nameRef": "Runeterra"
     },
     {
       "abbreviation": "FR",
-      "iconAbsolutePath": "http://dd.b.pvp.net/6_12_0/core/ja_jp/img/regions/icon-freljord.png",
+      "iconAbsolutePath": "http://dd.b.pvp.net/7_2_0/core/ja_jp/img/regions/icon-freljord.png",
       "name": "フレヨルド",
       "nameRef": "Freljord"
     },
     {
       "abbreviation": "SI",
-      "iconAbsolutePath": "http://dd.b.pvp.net/6_12_0/core/ja_jp/img/regions/icon-shadowisles.png",
+      "iconAbsolutePath": "http://dd.b.pvp.net/7_2_0/core/ja_jp/img/regions/icon-shadowisles.png",
       "name": "シャドウ<nobr>アイル</nobr>",
       "nameRef": "ShadowIsles"
     },
     {
       "abbreviation": "MT",
-      "iconAbsolutePath": "http://dd.b.pvp.net/6_12_0/core/ja_jp/img/regions/icon-targon.png",
+      "iconAbsolutePath": "http://dd.b.pvp.net/7_2_0/core/ja_jp/img/regions/icon-targon.png",
       "name": "ターゴン",
       "nameRef": "Targon"
     },
     {
       "abbreviation": "IO",
-      "iconAbsolutePath": "http://dd.b.pvp.net/6_12_0/core/ja_jp/img/regions/icon-ionia.png",
+      "iconAbsolutePath": "http://dd.b.pvp.net/7_2_0/core/ja_jp/img/regions/icon-ionia.png",
       "name": "アイオニア",
       "nameRef": "Ionia"
     },
     {
       "abbreviation": "SH",
-      "iconAbsolutePath": "http://dd.b.pvp.net/6_12_0/core/ja_jp/img/regions/icon-shurima.png",
+      "iconAbsolutePath": "http://dd.b.pvp.net/7_2_0/core/ja_jp/img/regions/icon-shurima.png",
       "name": "シュリーマ",
       "nameRef": "Shurima"
     },
     {
       "abbreviation": "BW",
-      "iconAbsolutePath": "http://dd.b.pvp.net/6_12_0/core/ja_jp/img/regions/icon-bilgewater.png",
+      "iconAbsolutePath": "http://dd.b.pvp.net/7_2_0/core/ja_jp/img/regions/icon-bilgewater.png",
       "name": "ビルジ<nobr>ウォーター</nobr>",
       "nameRef": "Bilgewater"
     },
     {
       "abbreviation": "PZ",
-      "iconAbsolutePath": "http://dd.b.pvp.net/6_12_0/core/ja_jp/img/regions/icon-piltoverzaun.png",
+      "iconAbsolutePath": "http://dd.b.pvp.net/7_2_0/core/ja_jp/img/regions/icon-piltoverzaun.png",
       "name": "ピルトーヴァー<nobr> & ゾウン</nobr>",
       "nameRef": "PiltoverZaun"
     },
     {
       "abbreviation": "BC",
-      "iconAbsolutePath": "http://dd.b.pvp.net/6_12_0/core/ja_jp/img/regions/icon-bandlecity.png",
+      "iconAbsolutePath": "http://dd.b.pvp.net/7_2_0/core/ja_jp/img/regions/icon-bandlecity.png",
       "name": "バンドル<nobr>シティ</nobr>",
       "nameRef": "BandleCity"
     },
     {
       "abbreviation": "SP",
-      "iconAbsolutePath": "http://dd.b.pvp.net/6_12_0/core/ja_jp/img/regions/icon-spiritblossom.png",
+      "iconAbsolutePath": "http://dd.b.pvp.net/7_2_0/core/ja_jp/img/regions/icon-spiritblossom.png",
       "name": "精霊の花祭り",
       "nameRef": "SpiritBlossom"
     }
@@ -871,69 +871,69 @@
   ],
   "sets": [
     {
-      "iconAbsolutePath": "http://dd.b.pvp.net/6_12_0/core/ja_jp/img/sets/set3_crispmip.png",
+      "iconAbsolutePath": "http://dd.b.pvp.net/7_2_0/core/ja_jp/img/sets/set3_crispmip.png",
       "name": "霊峰の呼び声",
       "nameRef": "Set3"
     },
     {
-      "iconAbsolutePath": "http://dd.b.pvp.net/6_12_0/core/ja_jp/img/sets/set5_crispmip.png",
+      "iconAbsolutePath": "http://dd.b.pvp.net/7_2_0/core/ja_jp/img/sets/set5_crispmip.png",
       "name": "バンドルウッドの向こう",
       "nameRef": "Set5"
     },
     {
-      "iconAbsolutePath": "http://dd.b.pvp.net/6_12_0/core/ja_jp/img/sets/set1_crispmip.png",
+      "iconAbsolutePath": "http://dd.b.pvp.net/7_2_0/core/ja_jp/img/sets/set1_crispmip.png",
       "name": "スターター",
       "nameRef": "Set1"
     },
     {
-      "iconAbsolutePath": "http://dd.b.pvp.net/6_12_0/core/ja_jp/img/sets/set2_crispmip.png",
+      "iconAbsolutePath": "http://dd.b.pvp.net/7_2_0/core/ja_jp/img/sets/set2_crispmip.png",
       "name": "迫り来る波濤",
       "nameRef": "Set2"
     },
     {
-      "iconAbsolutePath": "http://dd.b.pvp.net/6_12_0/core/ja_jp/img/sets/set6ab_crispmip.png",
+      "iconAbsolutePath": "http://dd.b.pvp.net/7_2_0/core/ja_jp/img/sets/set6ab_crispmip.png",
       "name": "世界を巡る者",
       "nameRef": "Set6"
     },
     {
-      "iconAbsolutePath": "http://dd.b.pvp.net/6_12_0/core/ja_jp/img/sets/set4_crispmip.png",
+      "iconAbsolutePath": "http://dd.b.pvp.net/7_2_0/core/ja_jp/img/sets/set4_crispmip.png",
       "name": "超越者の帝国",
       "nameRef": "Set4"
     },
     {
-      "iconAbsolutePath": "http://dd.b.pvp.net/6_12_0/core/ja_jp/img/sets/set9_crispmip.png",
+      "iconAbsolutePath": "http://dd.b.pvp.net/7_2_0/core/ja_jp/img/sets/set9_crispmip.png",
       "name": "夢照らす路",
       "nameRef": "Set9"
     },
     {
-      "iconAbsolutePath": "http://dd.b.pvp.net/6_12_0/core/ja_jp/img/sets/set7_crispmip.png",
+      "iconAbsolutePath": "http://dd.b.pvp.net/7_2_0/core/ja_jp/img/sets/set7_crispmip.png",
       "name": "ナヴォリの栄光",
       "nameRef": "Set7"
     },
     {
-      "iconAbsolutePath": "http://dd.b.pvp.net/6_12_0/core/ja_jp/img/sets/set8_crispmip.png",
+      "iconAbsolutePath": "http://dd.b.pvp.net/7_2_0/core/ja_jp/img/sets/set8_crispmip.png",
       "name": "宿命の航路",
       "nameRef": "Set8"
     },
     {
-      "iconAbsolutePath": "http://dd.b.pvp.net/6_12_0/core/ja_jp/img/sets/set7b_crispmip.png",
+      "iconAbsolutePath": "http://dd.b.pvp.net/7_2_0/core/ja_jp/img/sets/set7b_crispmip.png",
       "name": "狩人の心",
       "nameRef": "Set7b"
     },
     {
-      "iconAbsolutePath": "http://dd.b.pvp.net/6_12_0/core/ja_jp/img/sets/setevent_crispmip.png",
+      "iconAbsolutePath": "http://dd.b.pvp.net/7_2_0/core/ja_jp/img/sets/setevent_crispmip.png",
       "name": "イベント",
       "nameRef": "SetEvent"
     },
     {
-      "iconAbsolutePath": "http://dd.b.pvp.net/6_12_0/core/ja_jp/img/sets/set6cde_crispmip.png",
+      "iconAbsolutePath": "http://dd.b.pvp.net/7_2_0/core/ja_jp/img/sets/set6cde_crispmip.png",
       "name": "ダーキン戦記",
       "nameRef": "Set6cde"
     }
   ],
   "formats": [
     {
-      "iconAbsolutePath": "http://dd.b.pvp.net/6_12_0/core/ja_jp/img/formats/queue_select_standard_toggle_active.png",
+      "iconAbsolutePath": "http://dd.b.pvp.net/7_2_0/core/ja_jp/img/formats/queue_select_standard_toggle_active.png",
       "name": "スタンダード",
       "nameRef": "client_Formats_Standard_name"
     },
@@ -943,7 +943,7 @@
       "nameRef": "client_Deckbuilder_RulesFilters_Singleton"
     },
     {
-      "iconAbsolutePath": "http://dd.b.pvp.net/6_12_0/core/ja_jp/img/formats/queue_select_eternal_toggle_active.png",
+      "iconAbsolutePath": "http://dd.b.pvp.net/7_2_0/core/ja_jp/img/formats/queue_select_eternal_toggle_active.png",
       "name": "エターナル",
       "nameRef": "client_Formats_Eternal_name"
     },
