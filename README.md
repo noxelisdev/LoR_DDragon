@@ -47,6 +47,7 @@ This list contains patchs from actual major version. For all previous patchs of 
 
 The date in front of each patch represents the date when the patch was pushed to this repository, not the date when it was released by Riot Games. Here's a list of all patchs of current seasons included in this repository :
 
+- (August 11th, 2026) 7.8.0
 - (June 15th, 2026) 7.7.0
 - (June 3rd, 2026) 7.6.0
 - (May 5th, 2026) 7.5.0
